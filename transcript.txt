@@ -1,9 +1,3 @@
-                       The Rocky Horror Picture Show
-                        -----------------------------
-
-
-                      SCIENCE FICTION/DOUBLE FEATURE
-
 Usherette: Michael Rennie was ill
            The Day the Earth Stood Still
            But he told us where we stand.
@@ -17,7 +11,7 @@ Usherette: Michael Rennie was ill
            It Came From... Outer Space.
            And this is how the message ran:
 
-Chorus:    Science fiction, double feature
+Usherette:    Science fiction, double feature
            Doctor X will build a creature.
            See androids fighting Brad and Janet
            Anne Francis stars in Forbidden Planet
@@ -38,7 +32,7 @@ Usherette: I knew Leo G. Carrol
            "I'm gonna give you some terrible thrills,"
            Like a...
 
-Chorus:    Science fiction, double feature
+Usherette:    Science fiction, double feature
            Doctor X will build a creature.
            See androids fighting Brad and Janet
            Anne Francis stars in Forbidden Planet
@@ -146,7 +140,7 @@ Janet:     For you.
 
 Brad:      I love you too.
 
-Brad & Janet: There's one thing left to do - ah - oo.
+Brad, Janet: There's one thing left to do - ah - oo.
 
 Brad:      And that's go see the man who began it. (Janet)
            When we met in his science exam - it (Janet)
@@ -158,7 +152,7 @@ Janet:     Oh Brad, I'm mad.
 
 Brad:      Dammit, Janet.
 
-Brad & Janet: I love you.
+Brad, Janet: I love you.
 
 Narrator:  I would like, ah, if I may, ...to take you on a strange journey. It 
            seemed a fairly ordinary night when Brad Majors and his fiancee 
@@ -214,31 +208,31 @@ Janet:     In the velvet darkness,
            Burning bright, there's a guiding star.
            No matter what or who you are.
 
-Brad & Janet: There's a light...
+Brad, Janet: There's a light...
 
-Chorus:    Over at the Frankenstein place.
+Transylvanians:    Over at the Frankenstein place.
 
-Brad & Janet: There's a light...
+Brad, Janet: There's a light...
 
-Chorus:    Burning in the fireplace...
+Transylvanians:    Burning in the fireplace...
 
-Brad & Janet: There's a light, light in the darkness of everybody's life.
+Brad, Janet: There's a light, light in the darkness of everybody's life.
 
 
 Riff Raff: The darkness must go down the river of night's dreaming.
            Flow morphia slow, let the sun and light come streaming
            Into my life.  Into my life...
 
-Brad & Janet: There's a light...
+Brad, Janet: There's a light...
 
-Chorus:    Over at the Frankenstein place.
+Transylvanians:    Over at the Frankenstein place.
 
-Brad & Janet: There's a light...
+Brad, Janet: There's a light...
 
-Chorus:    Burning in the fireplace.
+Transylvanians:    Burning in the fireplace.
            There's a light, a light
 
-Brad & Janet: ...in the darkness of everybody's life.
+Brad, Janet: ...in the darkness of everybody's life.
 
 Brad:      I can see the flag fly
            I can see the rain
@@ -300,18 +294,18 @@ Riff Raff: I've got to keep control.
            Drinking those moments when
            The blackness would hit me
 
-Riff & Magenta: And a void would be calling...
+Riff Raff, Magenta: And a void would be calling...
 
 Transylvanians: Let's do the time-warp again.
                 Let's do the time-warp again.
 
 Narrator:  It's just a jump to the left.
 
-All:       And then a step to the right.
+Transylvanians:       And then a step to the right.
 
 Narrator:  With your hands on your hips.
 
-All:       You bring your knees in tight.
+Transylvanians:       You bring your knees in tight.
            But it's the pelvic thrust
            That really drives you insane.
 
@@ -333,7 +327,7 @@ Magenta:   You're spaced out on sensation.
 
 Riff Raff: Like you're under sedation.
 
-All:       Let's do the time-warp again.
+Transylvanians:       Let's do the time-warp again.
            Let's do the time-warp again.
 
 Columbia:  Well I was walking down the street just a-having a think
@@ -343,32 +337,32 @@ Columbia:  Well I was walking down the street just a-having a think
            He stared at me and I felt a change.
            Time meant nothing, never would again.
 
-All:       Let's do the time-warp again.
+Transylvanians:       Let's do the time-warp again.
            Let's do the time-warp again.
 
 Narrator:  It's just a jump to the left!
 
-All:       And then a step to the right.
+Transylvanians:       And then a step to the right.
 
 Narrator:  With your hands on your hips....
 
-All:       You bring your knees in tight.
+Transylvanians:       You bring your knees in tight.
            But it's the pelvic thrust
            That really drives you insane.
 
            Let's do the time-warp again.
            Let's do the time-warp again.
 
-All:       Let's do the time-warp again.
+Transylvanians:       Let's do the time-warp again.
            Let's do the time-warp again.
 
 Narrator:  It's just a jump to the left!!
 
-All:       And then a step to the right.
+Transylvanians:       And then a step to the right.
 
 Narrator:  With your hands on your hips!...
 
-All:       You bring your knees in tight.
+Transylvanians:       You bring your knees in tight.
            But it's the pelvic thrust
            that really drives you insane.
 
@@ -553,7 +547,7 @@ Frank:     Tonight, my unconventional conventionists... you are about to
            of being.. what a fool!  The answer was there all the time, it took 
            a small accident to make it happen... AN ACCIDENT...
 
-Magenta & Columbia: An accident!
+Magenta, Columbia: An accident!
 
 Frank:     ..and that's how I discovered the secret, that elusive ingredient, 
            that SPARK that is the breath of life...  Yes, I have that 
@@ -581,26 +575,26 @@ Rocky:     Oh, woe is me, my life is a misery.
 
            I woke up this morning with a start when I fell out of bed.
 
-All:       That ain't no crime.
+Transylvanians:       That ain't no crime.
 
 Rocky:     And left from my dreaming was a feeling of unnameable dread.
 
-All:       That ain't no crime.
+Transylvanians:       That ain't no crime.
 
 Rocky:     My high is low, I'm dressed up with no place to go.
            And all I know is I'm at the start of a pretty big downer.
 
 Frank:     Oh, Rocky!
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh ho no no
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh ho no no
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh ho no no
 
@@ -608,24 +602,24 @@ Rocky:     The sword of Damocles is hanging over my head.
 
 Frank:     Well, really!
 
-All:       That ain't no crime.
+Transylvanians:       That ain't no crime.
 
 Rocky:     And I've got the feeling someone's going to be cutting the thread.
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh, woe is me, my life is a mystery
            And, can't you see, that I'm at the start of a pretty big downer
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh no no no.
 
-All:       Sha-la-la-la that ain't no crime.
+Transylvanians:       Sha-la-la-la that ain't no crime.
 
 Rocky:     Oh no no no.
 
-All:       Sha-la-la-la that ain't no crime, Sha-la-la-la that ain't no crime,
+Transylvanians:       Sha-la-la-la that ain't no crime, Sha-la-la-la that ain't no crime,
            Sha-la-la-la that ain't no crime, Sha-la-la-la that ain't no crime,
            sha-la-la.
 
@@ -671,14 +665,14 @@ Frank:     A weakling weighing ninety-eight pounds
            He'll be pink and quite clean
            He'll be a strong man.  Oh honey...
 
-Frank & Transylvanians:  But the wrong man.
+Frank, Transylvanians:  But the wrong man.
 
 Frank:     He'll eat nutritious high protein.  And swallow raw eggs...
            Try to build up his shoulders, his chest, arms, and... legs.
            Such an effort if he only knew of my plan.
            In just seven days...
 
-Frank & Transylvanians:  I can make you a man.
+Frank, Transylvanians:  I can make you a man.
 
 Frank:     He'll do press-ups, and chin-ups, do the snatch, clean and jerk.
            He thinks dynamic tension must be hard work.
@@ -729,7 +723,7 @@ Frank:     But a deltoid and a bicep.
            Makes me, oooh, shake,
            Makes me want to take Charles Atlas by the...ha-ha-hand.
 
-Frank & Transylvanians: In just seven days I can make you a man.
+Frank, Transylvanians: In just seven days I can make you a man.
 
 Frank:     I don't want no dissention, just dynamic tension.
 
@@ -752,12 +746,12 @@ Narrator:  There are those who say that life is an illusion, and that reality
 
 Janet:     Who is it? Who's there?
 
-Frank (Brad): It's only me, Janet.
+Frank: It's only me, Janet.
 
 Janet:     Oh, Brad darling, come in.  Oh! Brad Oh... Yes, my darling...but 
            what if...
 
-Frank (Brad): It's all right, Janet, everything's going to be alright.
+Frank: It's all right, Janet, everything's going to be alright.
 
 Janet:     Oh, I hope so, my darling.  Oh...Ah...ahh OHHH! Oh it's you!
 
@@ -786,11 +780,11 @@ Janet:     Promise you won't tell Brad?
 
 Frank:     Cross my heart and hope to die...
 
-Frank (Janet): Oh, Brad darling, it's no good here.  It'll destroy us.
+Frank: Oh, Brad darling, it's no good here.  It'll destroy us.
 
 Brad:      Don't worry Janet, we'll be away from here in the morning.
 
-Frank (Janet): Oh, Brad you're so strong and protective.
+Frank: Oh, Brad you're so strong and protective.
 
 Brad:      YOU!
 
@@ -845,7 +839,7 @@ Narrator:  Emotion, agitation or disturbance of the mind...Vehement or excited
            monitor there seemed little doubt that Janet was, indeed, ... its
            slave.
 
-Magenta and Columbia: Tell us about it, Janet.
+Magenta, Columbia: Tell us about it, Janet.
 
 
                       TOUCH-A TOUCH-A TOUCH-A TOUCH ME
@@ -865,7 +859,7 @@ Janet:     I thought there's no use getting
            Now all I want to know is how to go.
            I've tasted blood and I want more.
 
-Magenta and Columbia: More, more, more
+Magenta, Columbia: More, more, more
 
 Janet:     I'll put up no resistance
            I want to stay the distance
@@ -880,7 +874,7 @@ Janet:     I'll put up no resistance
            Then if anything grows, while you pose,
            I'll oil you up and rub you down.
 
-Magenta and Columbia: Down, down, down.
+Magenta, Columbia: Down, down, down.
 
 Janet:     And that's just one small fraction of the main attraction
            You need a friendly hand and I need action.
@@ -1018,7 +1012,7 @@ Narrator:  Food has always played a vital role in Life's rituals. The breaking
 
 Frank:     A toast... to absent friends...
 
-All:       To absent friends.
+Frank, Brad, Dr. Scott, Janet, Columbia:       To absent friends.
 
 Frank:     And Rocky.  Happy Birthday to you, Happy Birthday to you! Happy 
            Birthday dear Rocky... Shall we?
@@ -1036,7 +1030,7 @@ Dr. Scott: I knew he was in with a bad crowd, but it was worse than I
 
 Rocky:     Ugh?!
 
-Brad & Janet: Doctor Scott!
+Brad, Janet: Doctor Scott!
 
 Frank:     Go on, Dr. Scott.  Or should I say Dr. Von Scott?
 
@@ -1046,7 +1040,7 @@ Dr. Scott: It's all right!
 
 Brad:      But Dr. Scott!
 
-Scott:     That's all right, Brad!!
+Dr. Scott:     That's all right, Brad!!
 
 
                                    EDDIE
@@ -1059,7 +1053,7 @@ Scott:     That's all right, Brad!!
 
 Narrator:  ...but he never caused her nothing but shame.
 
-Scott:     He left home the day she died.
+Dr. Scott:     He left home the day she died.
            From the day she was gone
            All he wanted
            Was Rock 'n' Roll porn
@@ -1068,9 +1062,9 @@ Scott:     He left home the day she died.
 
 Narrator:  He was a low down cheap little punk!
 
-Scott:     Taking everyone for a ride.
+Dr. Scott:     Taking everyone for a ride.
 
-All:       When Eddie said he didn't like his Teddy
+Dr. Scott, Riff Raff, Magenta:       When Eddie said he didn't like his Teddy
            You knew he was a no-good kid.
            But when he threatened your life with a switch-blade knife
 
@@ -1078,7 +1072,7 @@ Frank:     What a guy!
 
 Janet:     Makes you cry.
 
-Scott:     Und I did.
+Dr. Scott:     Und I did.
 
 Columbia:  Everybody shoved him.
            I very nearly loved him.
@@ -1086,18 +1080,18 @@ Columbia:  Everybody shoved him.
            Stay sane inside insanity!
            But he locked the door and threw away the key.
 
-Scott:     But he must have been drawn
+Dr. Scott:     But he must have been drawn
            Into something,
            Making him warn
            Me in a note that reads...
 
-All:       What's it say?  What's it say?
+Janet, Brad, Riff Raff, Magenta:       What's it say?  What's it say?
 
-Eddie's voice: I'm out of my hed.
+Eddie:     I'm out of my hed.
            Oh, hurry, or I may be dead.
            They mustn't carry out their evil deeds.
 
-All:       When Eddie said he didn't like his Teddy
+Janet, Brad, Riff Raff, Magenta:       When Eddie said he didn't like his Teddy
            You knew he was a no-good kid.
            But when he threatened your life with a switch-blade knife
 
@@ -1105,9 +1099,9 @@ Frank:     What a guy!
 
 Janet:     Makes you cry.
 
-Scott:     Und I did.
+Dr. Scott:     Und I did.
 
-All:       When Eddie said he didn't like his Taut
+Janet, Brad, Riff Raff, Magenta:       When Eddie said he didn't like his Taut
            You knew he was a no-good kid.
            But when he threatened your life with a switch-blade knife
 
@@ -1115,7 +1109,7 @@ Frank:     What a guy!
 
 Janet:     Makes you cry.
 
-Scott:     Und I did.
+Dr. Scott:     Und I did.
 
 Frank:     Rocky!  How could you? 
 
@@ -1136,7 +1130,7 @@ Frank:     Rocky!  How could you?
 
 Janet:     My feet!  I can't move my feet!
 
-Scott:     My wheels!  My God, I can't move my wheels!
+Dr. Scott:     My wheels!  My God, I can't move my wheels!
 
 Brad:      It's as if we're glued to the spot!
 
@@ -1147,13 +1141,13 @@ Janet:     We're trapped!
 Frank:     It's something you'll get used to.
            A mental mind fuck can be nice.
 
-Scott:     You won't find Earth people quite the easy mark you imagine.  This 
+Dr. Scott:     You won't find Earth people quite the easy mark you imagine.  This 
            sonic transducer...it is, I suppose, some kind of audio-vibrato-
            physio-molecular transport device?
 
 Brad:      You mean...
 
-Scott:     Yes, Brad, it's something we ourselves have been working on for 
+Dr. Scott:     Yes, Brad, it's something we ourselves have been working on for 
            quite some time.  But it seems our friend here has found a means of 
            perfecting it. A device which is capable of breaking down solid 
            matter and then projecting it through space and, who knows, perhaps
@@ -1175,7 +1169,7 @@ Frank:     Don't get hot and flustered!
 
 Brad:      You're a hot dog, but you better not try to hurt her, Frank Furter.
 
-Scott:     You're a hot dog, but you'd better not try to hurt her, Frank 
+Dr. Scott:     You're a hot dog, but you'd better not try to hurt her, Frank 
            Furter.
 
 Janet:     You're a hot dog --
@@ -1274,9 +1268,9 @@ Frank:     Whatever happened to Fay Wray?
 
            Don't dream it, be it.
 
-All:       Don't dream it, be it.
+Frank, Columbia, Brad, Rocky, Janet:       Don't dream it, be it.
 
-Scott:     Ach!  We've got to get out of this trap before this decadence saps 
+Dr. Scott:     Ach!  We've got to get out of this trap before this decadence saps 
            our wills. I've got to be strong, and try to hang on, or else my 
            mind may well snap, and my life will be lived... for the thrills!
 
@@ -1297,7 +1291,7 @@ Frank:     My, my, my, my, my, my, my, my, my, my, my, my...my!
            We're gonna shake it 'till the life has gone.
            Rose tint my world, keep me safe from my trouble and pain.
 
-All:       We're a wild and an untamed thing.
+Frank, Columbia, Brad, Rocky, Janet:       We're a wild and an untamed thing.
            We're bees with a deadly sting.
            You get a hit and your mind goes ping.
            Your heart'll thump and your blood will sing.
@@ -1329,41 +1323,41 @@ Frank:     Wait!  I can explain!
 
 Frank:     On the day I went away...
 
-All:       Goodbye...
+Transylvanians:       Goodbye...
 
 Frank:     Was all I had to say...
 
-All:       Now I...
+Transylvanians:       Now I...
 
 Frank:     I want to come again, and stay.
 
-All:       Oh, my, my...
+Transylvanians:       Oh, my, my...
 
 Frank:     Smile, and that will mean I may.
            'cause I've seen, oh, blue skies
            Through the tears in my eyes
            And I realize, I'm going home.
 
-All:       I'm going home.
+Transylvanians:       I'm going home.
 
 Frank:     Everywhere it's been the same...
 
-All:       ...feeling...
+Transylvanians:       ...feeling...
 
 Frank:     ...like I'm outside in the rain...
 
-All:       ...wheeling...
+Transylvanians:       ...wheeling...
 
 Frank:     ...free to try and find a game...
 
-All:       ...dealing...
+Transylvanians:       ...dealing...
 
 Frank:     ...cards for sorrow, cards for pain.
            'cause I've seen, oh, blue skies
            Through the tears in my eyes
            And I realize, I'm going home.
 
-Frank & All: I'm going home.
+Frank, Transylvanians: I'm going home.
 
 Magenta:   How sentimental.
 
@@ -1372,14 +1366,14 @@ Riff Raff: And also presumptuous of you.  You see, when I said WE were to
            sorry, however, if you found my words misleading, but you see, you 
            are to remain here, in spirit, anyway.
 
-Scott:     Great heavens!  That's a laser!
+Dr. Scott:     Great heavens!  That's a laser!
 
 Riff Raff: Yes, Dr. Scott.  A laser capable of emitting a beam of pure anti-
            matter.
 
 Brad:      You mean...you're going to kill him?  What's his crime?
 
-Scott:     You saw what became of Eddie.  Society must be protected.
+Dr. Scott:     You saw what became of Eddie.  Society must be protected.
 
 Riff Raff: Exactly, Dr. Scott.  And now, Frank N Furter, your time has come.  
            Say goodbye to all of this, and hello... to oblivion!
@@ -1392,17 +1386,17 @@ Magenta:   But I thought you liked them.  They liked you.
 
 Riff Raff: They didn't like me!  He never liked ME!
 
-Scott:     You did right.
+Dr. Scott:     You did right.
 
 Riff Raff: A decision had to be made.
 
-Scott:     You're O.K. by me.
+Dr. Scott:     You're O.K. by me.
 
 Riff Raff: Dr. Scott, I'm sorry about your nephew.
 
-Scott:     Eddie?  Yes, well, perhaps it was all for the best, heh, heh, heh.
+Dr. Scott:     Eddie?  Yes, well, perhaps it was all for the best, heh, heh, heh.
 
-Riff:      You should leave now, Dr. Scott, while it is still possible.  We 
+Riff Raff:      You should leave now, Dr. Scott, while it is still possible.  We 
            are about to beam the entire house to the planet Transsexual, in 
            the galaxy of Transylvania.  Go...  Now!  Our noble mission is 
            completed, my most beautiful sister, and soon we shall return to 
@@ -1411,7 +1405,7 @@ Riff:      You should leave now, Dr. Scott, while it is still possible.  We
 Magenta:   Ah, sweet Transsexual, land of night.  To sing and dance once more 
            to your dark refrain... To take that - step, to the right...
 
-Riff Raff & Magenta:      HAH!!
+Riff Raff, Magenta:      HAH!!
 
 Riff Raff: But it's the pelvic THRUST...
 
@@ -1426,13 +1420,13 @@ Brad:      I've done a lot; God knows I've tried
            To find the truth.  I've even lied.
            But all I know is down inside I'm
 
-All:       Bleeding...
+Brad, Janet:       Bleeding...
 
 Janet:     And super heroes come to the feast
            To taste the flesh not yet deceased.
            And all I know is still the beast is
 
-All:       Feeding...
+Brad, Janet:       Feeding...
            Ahh, ahh...
 
 Narrator:  And crawling on the planet's face
@@ -1440,7 +1434,7 @@ Narrator:  And crawling on the planet's face
            Lost in time, and lost in space,
            And meaning.
 
-All:       Meaning.
+Brad, Janet:       Meaning.
 
 
                   SCIENCE FICTION/DOUBLE FEATURE - REPRISE

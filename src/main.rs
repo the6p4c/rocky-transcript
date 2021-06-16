@@ -6,22 +6,23 @@ const PREV_CTX: usize = 3;
 
 #[derive(Debug)]
 struct Line<'a> {
-    speaker: &'a str,
+    speakers: Vec<&'a str>,
     lines: Vec<&'a str>,
 }
 
 fn print_line(line: &Line) {
     let line_text = line.lines.join(" ");
-    println!("{}: {}", line.speaker, line_text);
+    println!("`{}: {}", line.speakers.join(" "), line_text);
 }
 
-fn main() {
+fn main() -> Result<(),Box<dyn std::error::Error>> {
     // speakers
     let transcript = include_str!("../transcript.txt");
+    let lines = transcript.split('\n').into_iter();
     let mut script: Vec<Line> = vec![];
 
     let mut current_speaker = None;
-    for line in transcript.split('\n') {
+    for line in lines.clone() {
         let mut line_text = line.trim();
 
         let line_has_speaker = line.starts_with(|c: char| c.is_ascii_alphabetic());
@@ -35,19 +36,9 @@ fn main() {
         }
 
         if let Some(current_speaker) = current_speaker {
-            let is_first = script.len() == 0;
-            let need_new = if is_first {
-                true
-            } else {
-                let prev_line_idx = script.len() - 1;
-                let prev_line_same = script[prev_line_idx].speaker == current_speaker;
-
-                !prev_line_same
-            };
-
-            if need_new {
+            if line_has_speaker {
                 script.push(Line {
-                    speaker: current_speaker,
+                    speakers: current_speaker.split('\n').collect(),
                     lines: vec![line_text]
                 });
             } else {
@@ -58,48 +49,57 @@ fn main() {
     }
 
     // speakers
-    let speakers = transcript
-        .split('\n')
+    let speakers = lines
         .filter(|line| line.starts_with(|c: char| c.is_ascii_alphabetic()))
         .map(|line| line.split(':').next().expect("no name of speaker"))
-        .collect::<HashSet<&str>>();
-    let speakers = speakers.iter().collect::<Vec<_>>();
-
+        .map(|line| line.split(", ").collect::<Vec<&str>>())
+	.collect::<Vec<Vec<&str>>>().into_iter().flatten()
+	.collect::<HashSet<&str>>();
+    let mut speakers = speakers.iter().collect::<Vec<_>>();
+    speakers.sort();
     for (i, speaker) in speakers.iter().enumerate() {
         println!("{}: {}", i + 1, speaker);
     }
 
     // choice
-    print!("choice: ");
-    io::stdout().flush().unwrap();
-
-    let mut choice = String::new();
-    io::stdin().read_line(&mut choice).unwrap();
-    let choice: usize = choice.trim().parse().unwrap();
-
-    assert!(choice <= speakers.len(), "invalid index");
-
-    let desired_speaker = speakers[choice - 1];
+    let desired_speaker;
+    loop {
+        print!("choice: ");
+        io::stdout().flush().unwrap();
+        let mut choice = String::new();
+        io::stdin().read_line(&mut choice).unwrap();
+        let choice: Result<usize,_> = choice.trim().parse();
+        match choice {
+            Ok(n) => {if n <= speakers.len() && n != 0 {desired_speaker = speakers[n-1]; break;}}
+	    Err(_) => {continue;}
+        }
+    }
 
     let speakers_lines = script
         .iter()
         .enumerate()
-        .filter(|(_, line)| line.speaker == *desired_speaker)
+        .filter(|(_, line)| line.speakers.contains(desired_speaker))
         .map(|(i, _)| i)
         .collect::<Vec<_>>();
-    let line_idx = &speakers_lines.choose(&mut rand::thread_rng());
-    let line_idx = line_idx.expect("didn't find a random line");
+    loop {
+        let line_idx = &speakers_lines.choose(&mut rand::thread_rng());
+        let line_idx = line_idx.expect("didn't find a random line");
 
-    let skip_back = usize::min(*line_idx, PREV_CTX);
-    for line in &script[line_idx - skip_back..*line_idx] {
-        print_line(line);
-    }
-
-    {
+        let skip_back = usize::min(*line_idx, PREV_CTX);
+        for line in &script[line_idx - skip_back..*line_idx] {
+            print_line(line);
+        }
         let mut bleh = String::new();
         io::stdin().read_line(&mut bleh).unwrap();
+        let actual_line = &script[*line_idx];
+        print_line(actual_line);
+        print!("enter to continue or any key to quit: " );
+        io::stdout().flush()?;
+        let mut restart = String::new();
+        io::stdin().read_line(&mut restart)?;
+        if restart.trim() != "" {
+	    break;
+	}
     }
-
-    let actual_line = &script[*line_idx];
-    print_line(actual_line);
+    Ok(())
 }
